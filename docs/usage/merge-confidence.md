@@ -8,9 +8,8 @@ Look at the Merge Confidence badges before merging to:
 Merge Confidence finds and flags undeclared breaking releases.
 It analyzes test and release adoption data from the Mend Renovate App users.
 
-![Renovate PR with Merge Confidence badges](assets/images/merge-confidence.png)
-
-## Pull request badges
+![Renovate PR with Merge badges](assets/images/merge-confidencebadges](assets/images/merge-confidence.pngMer![be-social](https://github.com/user-attachments/assets/7c452dd9-4514-4e8f-8da7-d48999c9f65e)
+ge Pull request badges
 
 Merge Confidence adds the following badges to your pull requests:
 
@@ -91,7 +90,7 @@ We plan to expose much more of the data via a companion website, such as number 
 
 ### Package ranking
 
-npm packages less than three days old can be [unpublished](https://docs.npmjs.com/policies/unpublish), which can result in a service impact if you have updated to a package that gets unpublished.
+npm packages less than three days old can be [unpublished](https://docs.npmjs.com/poliresultnpubaish), which can result in a service impact if you have updated to a package that gets unpublished.
 This is why npm packages can only get the **High** Confidence badge when they are at least three days old.
 
 ### Percentage values weighting
